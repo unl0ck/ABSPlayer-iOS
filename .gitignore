@@ -1,0 +1,77 @@
+ABSPlayer/Frameworks
+# Xcode
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+xcuserdata/
+!default.xcworkspace/contents.xcworkspacedata
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Build
+build/
+*.ipa
+*.app
+
+# Dependency Managers
+Cartfile.resolved
+Carthage/Checkouts
+
+# Archives
+*.xcarchive
+
+# Provisioning Profiles
+*.mobileprovision
+*.provisionprofile
+
+# Temporary files
+*.mode1v3
+*.pbxuser
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Index
+.packageindex/
+
+# IDE-specific
+.idea/
+.vscode/
+
+# macOS Metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon?
+Icon?
+Icon\r
+
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+
+# End of file
